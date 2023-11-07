@@ -4,8 +4,8 @@ from model import ImageToTextModel
 name_of_encoder = "google/vit-base-patch16-224-in21k"
 name_tokenizer = "bert-base-uncased"
 name_of_decoder = "bert-base-uncased"
-dataset_image_path = 'image_tegging/data/train2014'
-dataset_label_path = 'image_tegging/data/dataset_coco.json'
+dataset_image_path = 'trainloop/data/train2014'
+dataset_label_path = 'trainloop/data/dataset_coco.json'
 
 
 if __name__ == '__main__':

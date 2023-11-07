@@ -4,4 +4,4 @@ __pycache__
 .ipynb_checkpoints
 .env
 
-image_tegging/data
+ImageToText/trainloop/data
