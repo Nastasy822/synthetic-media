@@ -5,3 +5,4 @@ __pycache__
 .env
 
 ImageToText/trainloop/data
+VideoToText/data
