@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+__pycache__
+.ipynb_checkpoints
+.env
+
+image_tegging/data
